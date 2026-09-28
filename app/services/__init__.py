@@ -1,0 +1,1 @@
+from app.services.user_service import register_user
